@@ -5,7 +5,7 @@
 
 $config['site_title'] = 'OLA';			// Site title
 $config['base_url'] = ''; 				// Override base URL (e.g. http://example.com)
-$config['theme'] = 'ola'; 			// Set the theme (defaults to "default")
+$config['theme'] = 'pico-foundation'; 			// Set the theme (defaults to "default")
 $config['date_format'] = 'jS M Y';		// Set the PHP date format
 $config['twig_config'] = array(			// Twig settings
 	'cache' => false,					// To enable Twig caching change this to CACHE_DIR
