@@ -1,45 +1,52 @@
-<!DOCTYPE html>
-<html lang="en" class="no-js">
-<head>
-	<meta charset="utf-8" />
-	
-	<title>{% if meta.title %}{{ meta.title }} | {% endif %}{{ site_title }}</title>
-{% if meta.description %}
-	<meta name="description" content="{{ meta.description }}"> 
-{% endif %}{% if meta.robots %}
-	<meta name="robots" content="{{ meta.robots }}">
-{% endif %}
-	
-	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" type="text/css" />
-	<link rel="stylesheet" href="{{ theme_url }}/style.css" type="text/css" />
-	
-	<script src="{{ theme_url }}/scripts/modernizr-2.6.1.min.js"></script>
-</head>
-<body>
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-	<header id="header">
-		<div class="inner clearfix">
-			<h1><a href="{{ base_url }}">{{ site_title }}</a></h1>
-			<ul class="nav">
-				{% for page in pages %}
-				<li><a href="{{ page.url }}">{{ page.title }}</a></li>
-				{% endfor %}
-			</ul>
-		</div>
-	</header>
+    <title>{% if meta.title %}{{ meta.title }} | {% endif %}{{ site_title }}</title>
+    {% if meta.description %}
+      <meta name="description" content="{{ meta.description }}">
+    {% endif %}{% if meta.robots %}
+      <meta name="robots" content="{{ meta.robots }}">
+    {% endif %}
 
-	<section id="content">
-		<div class="inner">
-			{{ content }}
-		</div>
-	</section>
-	
-	<footer id="footer">
-		<div class="inner">
-			<a href="http://picocms.org/">Pico</a> was made by <a href="http://gilbert.pellegrom.me">Gilbert Pellegrom</a> 
-			from <a href="http://dev7studios.com">Dev7studios</a>.
-		</div>
-	</footer>
-    
-</body>
+    <link rel="stylesheet" href="{{ theme_url }}/css/foundation.css" />
+    <link rel="stylesheet" href="{{ theme_url }}/css/webfont/ola-sans.css" />
+    <link rel="stylesheet" href="{{ theme_url }}/css/ola.css" />
+    <script src="{{ theme_url }}/js/vendor/modernizr.js"></script>
+  </head>
+  <body>
+
+    <header id="header" class="row">
+      <div class="large-6 columns">
+        <h1 id="site-title"><a href="/">{{ site_title }}</a></h1>
+      </div>
+      <div class="large-6 columns">
+        <nav id="main-menu" class="nav">
+          {{ at_navigation.navigation }}
+        </nav>
+      </div>
+    </header><!-- /header#header -->
+
+    <section id="content" class="row">
+      <div class="large-12 columns">
+        {{ content }}
+      </div>
+    </section> <!-- /section#content -->
+
+    <footer id="footer" class="row">
+      <div class="large-12 columns">
+        <p>outilslibresalternatifs.org is powered by <a href="http://picocms.org/">Pico</a>.</p>
+      </div>
+    </footer><!-- /footer#footer -->
+
+
+    <script src="{{ theme_url }}/js/vendor/jquery.js"></script>
+    <script src="{{ theme_url }}/js/foundation.min.js"></script>
+    <script src="{{ theme_url }}/js/ola.min.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+  </body>
 </html>

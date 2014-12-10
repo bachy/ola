@@ -1,0 +1,93 @@
+
+$main-color:#4A3426;
+
+
+body,
+h1, h2, h3, h4, h5, h6,
+a{
+  font-family : "ola_sans", "sans-serif";
+  color: $main-color;//#333;
+}
+
+body{
+  background-color: #C5DEEC;//#EFEFEF;
+}
+
+a{
+  &:hover{
+    color:#999;
+  }
+}
+
+p{
+  line-height:1.9;
+  margin:1em 0;
+}
+
+#header{
+  padding:2em 2em;
+  background-color:#fff;
+}
+
+#site-title{
+  margin:0;
+  font-size:2em;
+  font-weight:normal;
+}
+
+#main-menu{
+  ul{
+    padding:0;
+    margin:0;
+    text-align: right;
+  }
+  li{
+    display:inline-block;
+    padding:0 0 0 1em;
+    ul,li{display:none;}
+  }
+}
+
+#content{
+  padding:2em 2em;
+  background-color:#FFF;
+  .row{
+    margin-bottom: 2em;
+  }
+}
+
+#home-intro{
+
+  #banniere{
+    width:100%;
+  }
+  header{
+    font-size:1.5em;
+    margin-bottom: 0.5em;
+    line-height:1.8;
+  }
+}
+
+#home-presentation{
+
+}
+
+#home-intervenants{
+
+}
+
+#mail-chimp form{
+  .row,.columns{
+    margin:0;
+    padding:0;
+  }
+}
+
+
+#footer{
+    padding:2em;
+    p{
+      font-size:0.9em;
+      color:#999;
+    }
+}
