@@ -8,7 +8,7 @@ Template: index
 
 ### À propos
 
-Outils libres alternatifs est une association loi 1901 a but non lucratif fondée par [Raphaël Bastide](http://raphaelbastide.com/), [Sarah Garcin](http://www.sarahgarcin.com/), [Bachir Soussi Chiadmi](http://g-u-i.net/).
+Outils libres alternatifs est une association loi 1901 a but non lucratif fondée par [Raphaël Bastide](http://raphaelbastide.com/), [Sarah Garcin](http://www.sarahgarcin.com/), [Bachir Soussi Chiadmi](http://bachirsoussichiadmi.net/).
 
 ### Le site
 
