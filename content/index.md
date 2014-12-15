@@ -97,7 +97,6 @@ Template: index
 <section class="row" id="home-intervenants">
   <section class="small-12 columns">
     <h3>Envie de partager une pratique libre ?</h3>
-    Nous avons besoin d'intervenants.
+    Nous avons besoin d'intervenants, <a href="contact">discuttons-en</a> !
   </section>
 </section>
-
