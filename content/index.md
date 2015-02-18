@@ -26,7 +26,7 @@ Template: index
   <section class="columns small-12 medium-4">
     <h3>Libres</h3>
     <p>
-    Nous considérons comme <em>libres</em> les logiciels respectant et garantissant les quatres libertés décrites par la <em>Free Software Foundation</em> : utilisation, modification, distribution et distribution des modifications.
+    Nous considérons comme <em>libres</em> les outils respectant et garantissant les quatres libertés décrites par la <em>Free Software Foundation</em> : utilisation, modification, distribution et distribution des modifications.
     </p>
   </section>
   <section class="columns small-12 medium-4">
