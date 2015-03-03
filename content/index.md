@@ -7,7 +7,7 @@ Template: index
 */
 <section class="row" id="home-intro">
   <section class="columns small-12">
-    <header>Outils Libre Alternatifs est une initiative dont l'objectif est la promotion et la diffusion d'outils libres pour la création.</header>
+    <header>Outils Libres Alternatifs est une initiative dont l'objectif est la promotion et la diffusion d'outils libres pour la création.</header>
     <img id="banniere" src="/content/banniere-2.jpg"/>
     <p>
     Ce projet intervient dans un contexte où les solutions propriétaires restreignent la diversité des productions, nuisent à la liberté de création, et où les solutions libres ne sont pas prises en considération dans l’enseignement et dans les contextes professionnels.<br />
