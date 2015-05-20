@@ -2,7 +2,7 @@ body,
 h1, h2, h3, h4, h5, h6,
 a {
   font-family: "ola_sans", "sans-serif";
-  color: #4D29AC; }
+  color: #000; }
 
 body {
   background-color: #CCC url("../../../content/dot-bg.jpg"); }
@@ -42,10 +42,11 @@ p {
     text-decoration: underline; }
 
 #home-intro #banniere {
-  width: 100%; }
+  width: 100%;
+  display: none; }
 #home-intro header {
   font-size: 1.5em;
-  margin-bottom: 0.5em;
+  margin:2.4em 0;
   line-height: 1.8; }
 
 #mail-chimp form .row, #mail-chimp form .columns {
