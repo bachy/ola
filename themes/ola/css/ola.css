@@ -2,10 +2,10 @@ body,
 h1, h2, h3, h4, h5, h6,
 a {
   font-family: "ola_sans", "sans-serif";
-  color: #4A3426; }
+  color: #000; }
 
 body {
-  background-color: #C5DEEC; }
+  background-color: #CCC url("../../../content/dot-bg.jpg"); }
 
 a:hover {
   color: #999; }
@@ -29,7 +29,7 @@ p {
   text-align: right; }
 #main-menu li {
   display: inline-block;
-  padding: 0 0 0 1em; }
+  padding: 0 0 0 2em; }
   #main-menu li ul, #main-menu li li {
     display: none; }
 
@@ -38,12 +38,15 @@ p {
   background-color: #FFF; }
   #content .row {
     margin-bottom: 2em; }
+  #content a {
+    text-decoration: underline; }
 
 #home-intro #banniere {
-  width: 100%; }
+  width: 100%;
+  display: none; }
 #home-intro header {
   font-size: 1.5em;
-  margin-bottom: 0.5em;
+  margin:2.4em 0;
   line-height: 1.8; }
 
 #mail-chimp form .row, #mail-chimp form .columns {
