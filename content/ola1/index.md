@@ -1,8 +1,10 @@
 /*
 Title: OLA #1
-Description:
+Description: OLA #1 Expérimente la 3D libre
 Author: Outils Libres Alternatifs
 Template: index
+Date: 2015/9/29
+Placing: 2
 */
 
 
@@ -16,7 +18,7 @@ Nous sommes très fiers de vous convier au deuxième épisode de OLA: OLA #1, un
 
 Pour ce deuxième événement, nous avons invité Aby Batti, game designer et co-fondateur du studio de jeu vidéo indépendant [SHARPSENSE](http://www.sharpsense.fr/). Aby utilise Blender pour concevoir ses jeux vidéos et nous fera découvrir ce logiciel avec lequel nous inventerons et modéliserons des outils imaginaires et insolites.
 
-Le workshop est gratuit, mais nous vous demandons d'adhérer aux associations Outils Libres Alternatifs et La Générale pour y participer. Si vous n'êtes pas déjà membres de ces deux associations, nous vous demanderons 10€ qui seront entièrement dédiés aux futurs évènements des associations. 
+Le workshop est gratuit, mais nous vous demandons d'adhérer aux associations Outils Libres Alternatifs et La Générale pour y participer. Si vous n'êtes pas déjà membres de ces deux associations, nous vous demanderons 10€ qui seront entièrement dédiés aux futurs évènements des associations.
 Nous vous demanderons également 5€ de participation pour le catring (dîner du samedi soir et boissons vendredi soir et dimanche soir)
 
 Pour participer il vous suffit de prendre l’une des 15 places disponibles en nous envoyant un mail à [ola@outilslibresalternatifs.org](mailto:ola@outilslibresalternatifs.org) !

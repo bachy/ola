@@ -1,24 +1,20 @@
 /*
 Title: OLA #0
-Description:
+Description: OLA #0 Expérimente l’édition libre
 Author: Outils Libres Alternatifs
 Template: index
+Date: 2015/5/1
+Placing: 1
 */
 
 
 ### OLA #0 Expérimente l’édition libre
 
-Chers futurs participants,
-
-Nous sommes très fiers de vous convier au premier épisode d'un projet sur lequel nous travaillons depuis quelque temps : OLA #0, un week-end atelier pour découvrir l’édition sous un nouvel angle !
-
-[Outils Libres Alternatifs](http://outilslibresalternatifs.org/) est une initiative centrée sur la pratique, dont l'objectif est la promotion et la diffusion d'outils libres pour la création. Pour cela nous organisons des workshops durant lesquels un artiste, designer ou praticien se propose de partager sa pratique libre.
+OLA #0, un week-end atelier pour découvrir l’édition sous un nouvel angle !
 
 Pour ce premier événement, nous avons invité Aurélie Delafon, secrétaire de rédaction, maquettiste du magazine [Le tigre](http://le-tigre.net), avec laquelle nous produirons ensemble la première édition OLA. Chaque participant sera invité à choisir les contenus (textes, images, autres) à intégrer dans cette édition collective, avec comme contrainte, la thématique «Utiliser, Modifier, Diffuser»
 
 Le workshop est gratuit, mais nous vous demandons d'adhérer aux associations Outils Libres Alternatifs et La Générale pour y participer. Nous vous demanderons donc 10 euros qui seront entièrement dédiés aux futurs évènements des associations.
-
-Pour participer il vous suffit de prendre l’une des 15 places disponibles en nous envoyant un mail à [ola@outilslibresalternatifs.org](mailto:ola@outilslibresalternatifs.org) !
 
 Vous aurez également besoin d'un ordinateur portable sur lequel sera installé le logiciel libre [Scribus](http://scribus.net/).
 
@@ -26,7 +22,7 @@ Le samedi soir, une session de présentations de 5 minutes (speed talks) vous in
 
 Enfin, dimanche soir, c’est portes ouvertes ! Si vous ne pouvez pas suivre l’atelier, venez voir nos productions, sous les rythmes endiablés de Los Pistoleros del Infinito. Tout le monde est bienvenue !
 
-Nous espérons vous avoir donné envie d'expérimenter de nouvelles voies de créations  avec nous, et attendons avec impatience ce dernier weekend de mai en votre compagnie :)
+Nous espérons vous avoir donné envie d'expérimenter de nouvelles voies de créations :)
 Sarah Garcin, Bachir Soussi Chiadmi et Raphaël Bastide
 Outils Libres Alternatifs
 

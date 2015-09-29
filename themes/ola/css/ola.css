@@ -29,9 +29,31 @@ p {
   text-align: right; }
 #main-menu li {
   display: inline-block;
-  padding: 0 0 0 2em; }
-  #main-menu li ul, #main-menu li li {
-    display: none; }
+  margin: 0 0 0 2em;
+  position:relative;}
+
+  #main-menu li ul {
+    	display: none;
+    	position: absolute;
+    	top: 17px;
+    	left: 0px;
+    	padding: 5px 0 0;
+    	width: 150px;
+    }
+  #main-menu .nav li ul li ul {
+  	/*left: 150px;*/
+  	top: 0;
+  	padding: 0;
+  }
+  #main-menu .nav li:hover > ul {
+  	display: block;
+  }
+  #main-menu .nav li ul li {
+  	margin-left: 0px;
+  	padding: 2px 10px;
+  	display: block;
+  	/*background: rgba(0, 0, 0, 0.1);*/
+  }
 
 #content {
   padding: 2em 2em;
