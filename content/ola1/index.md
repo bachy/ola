@@ -16,7 +16,7 @@ Nous sommes très fiers de vous convier au deuxième épisode de OLA : OLA #1, u
 
 [Outils Libres Alternatifs](http://outilslibresalternatifs.org/) est une initiative centrée sur la pratique, dont l'objectif est la promotion et la diffusion d'outils libres pour la création. Pour cela nous organisons des workshops durant lesquels un artiste, designer ou praticien se propose de partager sa pratique libre.
 
-Pour ce deuxième événement, nous avons invité Aby Batti, game designer et co-fondateur du studio de jeu vidéo indépendant [SharpSense](http://www.sharpsense.fr/). Aby utilise Blender pour concevoir ses jeux vidéos et nous fera découvrir ce logiciel avec lequel nous inventerons et modéliserons des outils imaginaires et insolites.
+Pour ce deuxième événement, nous avons invité Aby Batti, game designer et co-fondateur du studio de jeu vidéo indépendant [SharpSense](http://www.sharpsense.fr/). Aby utilise le logiciel libre [Blender](http://www.blender.org/) pour concevoir ses jeux vidéos et nous fera découvrir ce logiciel avec lequel nous inventerons et modéliserons des outils imaginaires et insolites.
 
 Le workshop est gratuit, mais nous vous demandons d'adhérer aux associations Outils Libres Alternatifs et La Générale pour y participer. Si vous n'êtes pas déjà membres de ces deux associations, nous vous demanderons 10€ qui seront entièrement dédiés aux futurs évènements des associations.
 
