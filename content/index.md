@@ -2,7 +2,7 @@
 Title: Outils Libres Alternatifs
 Description: Outils libres alternatifs est une association loie 1901 a but non lucratif fondée par Raphaël Bastide, Sarah Garcin, Bachir Soussi Chiadmi.
 Author: Outils Libres Alternatifs
-Robots: noindex,nofollow
+Robots:
 Template: index
 */
 <section class="row" id="home-intro">
