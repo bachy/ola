@@ -4,7 +4,7 @@ Description: OLA #0 Expérimente l’édition libre
 Author: Outils Libres Alternatifs
 Template: index
 Date: 2015/5/1
-Placing: 1
+Placing: 2
 */
 
 
