@@ -4,7 +4,7 @@ Description: OLA #0 Expérimente l’édition libre
 Author: Outils Libres Alternatifs
 Template: index
 Date: 2015/5/1
-Placing: 2
+Placing: 1
 */
 
 
@@ -34,9 +34,9 @@ Du 29 (soir) au 31 mai
 
 ### Lieu
 
-**La Générale**  
-14, avenue Parmentier 75011 Paris  
-Métro Voltaire  
+**La Générale**
+14, avenue Parmentier 75011 Paris
+Métro Voltaire
 [http://www.lagenerale.fr/](http://www.lagenerale.fr/)
 
 ### Déroulé des journées

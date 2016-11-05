@@ -4,7 +4,7 @@ Description: OLA #1 Expérimente la 3D libre
 Author: Outils Libres Alternatifs
 Template: index
 Date: 2015/9/29
-Placing: 3
+Placing: 2
 */
 
 
@@ -28,7 +28,7 @@ Le samedi soir, une session de présentations de 5 minutes (speed talks) vous in
 
 Enfin, dimanche soir, c’est portes ouvertes! Si vous ne pouvez pas suivre l’atelier, venez voir nos productions, tout le monde est bienvenue.
 
-Nous espérons vous avoir donné envie d'expérimenter de nouvelles voies de créations avec nous, et attendons avec impatience ce weekend d'octobre en votre compagnie :)  
+Nous espérons vous avoir donné envie d'expérimenter de nouvelles voies de créations avec nous, et attendons avec impatience ce weekend d'octobre en votre compagnie :)
 Sarah Garcin + Bachir Soussi Chiadmi + Raphaël Bastide =
 Outils Libres Alternatifs
 
@@ -40,9 +40,9 @@ Du 23 octobre (soir) au 25 octobre 2015
 
 ### Lieu
 
-**La Générale**  
-14, avenue Parmentier 75011 Paris  
-Métro Voltaire  
+**La Générale**
+14, avenue Parmentier 75011 Paris
+Métro Voltaire
 [http://www.lagenerale.fr/](http://www.lagenerale.fr/)
 
 ### Déroulé des journées

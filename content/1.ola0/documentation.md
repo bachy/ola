@@ -12,7 +12,7 @@ Template: index
 
 #### Installation de Ghoscript pour Mac OSX
 Lorsque vous installez Scribus sur Mac OSX, il vous est demandé d'installer Ghostscript.
-Scribus nécessite l'installation de Ghostscript afin de pouvoir importer des pdf par exemple. 
+Scribus nécessite l'installation de Ghostscript afin de pouvoir importer des pdf par exemple.
 
 1. Télécharger la dernière version de Ghostscript
     Ghostscript 9.16 Source / Ghostscript GPL Release
@@ -20,9 +20,9 @@ Scribus nécessite l'installation de Ghostscript afin de pouvoir importer des pd
 2. Décompresser le fichier
 3. Ouvrir le terminal (Application → Utilitaires → Terminal)
 4. Taper “cd” puis espace dans la fenetre du Terminal et glisser le dossier ghostscript décompressé dans la fenetre de Terminale, puis taper entrer
-5. Taper “./configure” puis entrer. Il est possible que vous ayez une fenetre qui s’affiche vous demandant d’installer gcc. Cliquer sur “Installer". 
+5. Taper “./configure” puis entrer. Il est possible que vous ayez une fenetre qui s’affiche vous demandant d’installer gcc. Cliquer sur “Installer".
 6. Une fois que l’installation est terminée, retourner dans le terminal et taper “./configure” puis entrer.
-7. Quand l’opération est terminée. Taper “make” puis entrer. 
+7. Quand l’opération est terminée. Taper “make” puis entrer.
 8. Puis taper “sudo make install", taper entrer. Puis entrer votre mot de passe (votre mot de passe ne s’affiche pas c’est normal) puis taper entrer.
 9. Normalement l’installation est terminée, réouvrir Scribus.
 
@@ -84,7 +84,7 @@ solution: clique droit sur le tracé dans l'onglet chemin → sélection vers ch
 ## Ressources
 
 #### Tutoriels Scribus
-Tutoriel en français ici 
+Tutoriel en français ici
 <http://leporteplumes.com/2014/02/23/scribus-13-guides-pour-apprendre-a-utiliser-le-logiciel-libre-de-pao/>
 
 #### Contenus Libres

@@ -14,6 +14,7 @@ N’hésitez pas à nous contacter si l’association et ses actions vous intér
 
 Email : [ola@outilslibresalternatifs.org](mailto:ola@outilslibresalternatifs.org)  
 Twitter : [@outilslibres](https://twitter.com/outilslibres)
+IRC : #outilslibresalternatifs sur le serveur freenode.net
 
 <!-- Begin MailChimp Signup Form -->
 <form action="//outilslibresalternatifs.us9.list-manage.com/subscribe/post?u=5e9828d26822f0a1166b2329a&amp;id=3010d0f25d" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
