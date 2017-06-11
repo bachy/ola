@@ -1,0 +1,20 @@
+{
+  "name": "OLA",
+  "version": "0.0.1",
+  "description": "OLA Pico theme",
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Bachir Soussi Chiadmi",
+  "license": "GPLV3",
+  "homepage": "",
+  "devDependencies": {
+    "gulp":"",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-jsmin": "^0.1.5",
+    "gulp-sass": "^2.0.1",
+    "gulp-watch": "^4.2.4"
+  }
+}

@@ -4,7 +4,7 @@ Description: This description will go in the meta description tag
 Author: Outils Libres Alternatifs
 Robots: noindex,nofollow
 Template: index
-Placing: 5
+Placing: 19
 Date: 2050/2/1
 */
 

@@ -5,7 +5,7 @@ Author: Outils Libres Alternatifs
 Robots: noindex,nofollow
 Template: index
 Date:2050/1/1
-Placing: 6
+Placing: 20
 */
 
 ### Contact
@@ -30,7 +30,7 @@ IRC : #outilslibresalternatifs sur le serveur freenode.net
 					<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 				</div>
 				<input class="radius tiny button" type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
-
+	
 			</div>
 		</div>
 	</div>

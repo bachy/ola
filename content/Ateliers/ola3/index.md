@@ -4,7 +4,7 @@ Description: OLA #3 s'anime!
 Author: Outils Libres Alternatifs
 Template: index
 Date: 2016/6/7
-Placing: 4
+Placing: 5
 */
 
 
@@ -12,14 +12,14 @@ Placing: 4
 
 un week-end atelier pour se raconter des histoires animées!
 
-Pour ce quatrième événement, nous avons invité **Nicolas Doray**, illustrateur, auteur de BD, story-boarder et réalisateur de courts et longs metrages animés. Il utilise professionelement les logiciels libres Krita, Blender et Kdenlive.
+Pour ce quatrième événement, nous avons invité **Nicolas Doray**, illustrateur, auteur de BD, story-boarder et réalisateur de courts et longs metrages animés. Il utilise professionnellement les logiciels libres Krita, Blender et Kdenlive.
 Nous apprendrons à composer une histoire animée, depuis le scénario, en passant par les croquis, le storyboard puis le storyboard animé : **"la cinématique"**.
 Nous mettrons l'accent sur les points de vue, les mouvements de caméras, la temporalité des enchainements, au service de la narration, plus que sur l'animation (de personnages par exemple) à proprement parler. Cet atelier ne necessite donc pas de compétences particulières en dessin.
 
 Vous pouvez voir le travail de Nicolas Doray ici [doraynico.tumblr.com](http://doraynico.tumblr.com)
 et notament [un exemple de storyboard monté](http://doraynico.tumblr.com/post/77994790577/yoyot-2007)
 
-Le workshop est gratuit, mais nous vous demandons d'adhérer à l'associations Outils Libres Alternatifs pour y participer. Si vous n'êtes pas déjà membres, nous vous demanderons 10€ qui seront entièrement dédiés aux futurs évènements de l'associations.
+Le workshop est gratuit, mais nous vous demandons d'adhérer à l'associations Outils Libres Alternatifs pour y participer. Si vous n'êtes pas déjà membres, nous vous demanderons 10€ qui seront entièrement dédiés aux futurs événements de l'associations.
 
 Pour participer il vous suffit de prendre l’une des 20 places disponibles en nous envoyant un mail à ola@outilslibresalternatifs.org.
 

@@ -4,9 +4,21 @@ Description: News feed from and about Outils Libres Alternatifs
 Author: Outils Libres Alternatifs
 Robots: noindex,nofollow
 Template: index
-Placing: 0
+Placing: 1
 */
 
+### [OLA #4](http://outilslibresalternatifs.org/ola4)<br/>
+Notre cinquième  workshop : "imprimer en cascade" avec OSP.<br/>
+Du 23 (soirée) au 25 juin 2017 à [Synesthésie](http://synesthesie.com) Saint Denis.<br>
+[Page de l’évennement](http://outilslibresalternatifs.org/ola4).
+
+---
+### [OLA #3](http://outilslibresalternatifs.org/ola3)<br/>
+Notre quatrieme workshop : "se raconter des histoires animées" avec Nicolas Doray.<br/>
+Du 2 (soirée) au 4 décembre 2016 à [Synesthésie](http://synesthesie.com) Saint Denis.<br>
+[Page de l’évennement](http://outilslibresalternatifs.org/ola3).
+
+---
 ### [OLA #2 la doc](http://outilslibresalternatifs.org/ola2)
 
 Le rendu et la documentation de notre troisième workshop autour du son et de puredata et disponible. [ici](http://outilslibresalternatifs.org/ola2/documentation).
