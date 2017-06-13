@@ -49,30 +49,37 @@ p{
     text-align: right;
     &>li{
       display:inline-block;
-      margin:0 0 0 2em;
       position:relative;
       text-align: left;
+      &:not(:last-child){
+        margin-right:2em;
+      }
       // outline: 1px solid blue;
       &>ul{
         display: none;
         position: absolute;
-        top: 19px;
-        right: -5px;
-        padding: 10px 5px 0;
-        width: 170px;
+        top: 1.3em;
+        // right: -5px;
+        padding: 0 2em 2em;
+        margin-left:-2em;
+        // width: 170px;
         // outline: 1px solid green;
         &>li{
           display:none;
-          padding:0.5em 0 0 0;
+          padding:0;
+          margin:0.5em 0 0;
           font-size: 0.85em;
-          text-align: right;
+          // text-align: right;
           // outline: 1px solid purple;
-          // &>ul{
-          //
-          //   &>li{
-          //
-          //   }
-          // }
+          &>ul{
+            padding:0;
+            margin:0;
+            &>li{
+              padding:0;
+              margin:0;
+              font-size: 0.756em;
+            }
+          }
         }
       }
     }
