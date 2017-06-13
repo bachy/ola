@@ -1,0 +1,61 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>{% if meta.title %}{{ meta.title }} | {% endif %}{{ site_title }}</title>
+    {% if meta.description %}
+      <meta name="description" content="{{ meta.description }}">
+    {% endif %}{% if meta.robots %}
+      <meta name="robots" content="{{ meta.robots }}">
+    {% endif %}
+
+    <link rel="stylesheet" href="{{ theme_url }}/css/foundation.css" />
+    <link rel="stylesheet" href="{{ theme_url }}/css/webfont/ola-sans.css" />
+    <link rel="stylesheet" href="{{ theme_url }}/css/ola.css" />
+    <script src="{{ theme_url }}/js/vendor/modernizr.js"></script>
+  </head>
+  <body>
+
+    <header id="header" class="row">
+      <div class="large-2 columns">
+        <h1 id="site-title"><a href="/">{{ site_title }}</a></h1>
+      </div>
+      <div class="large-10 columns">
+        <nav id="main-menu" class="nav">
+          {{ at_navigation.navigation }}
+        </nav>
+      </div>
+    </header><!-- /header#header -->
+
+    <section id="content" class="row">
+      <div class="large-12 columns">
+      <ul class="nav">
+        {% for page in pages %}
+          <!-- <pre>{{ dump(page) }}</pre> -->
+          {% if '/ateliers/ola' in page.url and 'documentation' not in page.url %}
+            <li>
+              <a href="{{ page.url }}">{{ page.title }}</a>
+              <p>{{ page.description }}</p>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+      </div>
+    </section> <!-- /section#content -->
+
+    <footer id="footer" class="row">
+      <div class="large-12 columns">
+      </div>
+    </footer><!-- /footer#footer -->
+
+
+    <script src="{{ theme_url }}/js/vendor/jquery.js"></script>
+    <script src="{{ theme_url }}/js/foundation.min.js"></script>
+    <script src="{{ theme_url }}/js/ola.min.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+  </body>
+</html>
