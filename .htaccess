@@ -1,8 +1,16 @@
 <IfModule mod_rewrite.c>
 RewriteEngine On
+
+# Ateliers to ateliers
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /Ateliers.*\ HTTP/
+RewriteRule ^Ateliers(.*)$ /ateliers$1 [R=301,L]
+
 RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d 
+RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . index.php [L]
+
+
+
 </IfModule>
 
 # Prevent file browsing
